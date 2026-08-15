@@ -284,7 +284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-07T03:37:02Z",
+            "last_commit": "2026-08-14T11:36:36Z",
             "owner": "ddnexus",
             "repo": "pagy",
             "stars": 4985
@@ -524,7 +524,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-31T14:37:29Z",
+            "last_commit": "2026-08-14T14:32:46Z",
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3916
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:36:06.274Z",
+    "last_updated": "2026-08-15T09:54:23.495Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
     "enhanced_repository": "enhansome/enhansome-hanami",
