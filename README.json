@@ -287,7 +287,7 @@
             "last_commit": "2026-08-14T11:36:36Z",
             "owner": "ddnexus",
             "repo": "pagy",
-            "stars": 4986
+            "stars": 4987
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:07:26.026Z",
+    "last_updated": "2026-08-18T10:01:25.098Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
     "enhanced_repository": "enhansome/enhansome-hanami",
