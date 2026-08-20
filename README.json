@@ -541,7 +541,7 @@
             "last_commit": "2026-07-24T20:22:06Z",
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8170
+            "stars": 8169
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:08.977Z",
+    "last_updated": "2026-08-20T10:03:35.223Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_id": 60163357,
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
