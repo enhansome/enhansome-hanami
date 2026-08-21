@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-03T16:44:17Z",
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
-                "stars": 1590
+                "stars": 1591
               }
             },
             {
@@ -556,7 +556,7 @@
             "last_commit": "2026-02-27T14:56:33Z",
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8100
+            "stars": 8101
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-14T14:32:46Z",
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3916
+            "stars": 3914
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:03:35.223Z",
+    "last_updated": "2026-08-21T10:03:59.238Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_id": 60163357,
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
