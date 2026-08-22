@@ -307,7 +307,7 @@
                 "last_commit": "2026-08-14T11:36:36Z",
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4987
+                "stars": 4988
               }
             },
             {
@@ -538,7 +538,7 @@
             "archived": false,
             "id": 21829,
             "language": "Ruby",
-            "last_commit": "2026-07-24T20:22:06Z",
+            "last_commit": "2026-08-21T15:39:33Z",
             "owner": "thoughtbot",
             "repo": "factory_bot",
             "stars": 8169
@@ -568,10 +568,10 @@
             "archived": false,
             "id": 309009,
             "language": "Ruby",
-            "last_commit": "2026-08-14T14:32:46Z",
+            "last_commit": "2026-08-21T15:19:38Z",
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3914
+            "stars": 3913
           }
         },
         {
@@ -586,7 +586,7 @@
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3840
+            "stars": 3841
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:03:59.238Z",
+    "last_updated": "2026-08-22T09:54:09.230Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_id": 60163357,
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
