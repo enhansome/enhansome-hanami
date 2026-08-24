@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 31 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,133 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,135 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))

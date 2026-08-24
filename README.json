@@ -193,6 +193,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "hanami-shrine",
+              "description": "Upload solution for Hanami using Shrine library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45364571,
+                "language": "Ruby",
+                "last_commit": "2021-04-13T08:00:45Z",
+                "owner": "katafrakt",
+                "repo": "hanami-shrine",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File Uploading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "newrelic-hanami",
+              "description": "Gem for connecting NewRelic and Hanami",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34320681,
+                "language": "Ruby",
+                "last_commit": "2019-06-17T11:04:12Z",
+                "owner": "artemeff",
+                "repo": "newrelic-hanami",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performance Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "rspec-hanami",
               "description": "RSpec Matchers for Hanami",
               "children": [],
@@ -403,6 +447,28 @@
           "description": null,
           "node_type": "group",
           "title": "Building APIs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "had",
+              "description": "Hanami API Documentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97016752,
+                "language": "Ruby",
+                "last_commit": "2018-04-16T10:01:17Z",
+                "owner": "gdwrd",
+                "repo": "had",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API Documentation"
         },
         {
           "children": [
@@ -869,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:20:17.025Z",
+    "last_updated": "2026-08-24T14:24:57.662Z",
     "original_repository": "davydovanton/awesome-hanami",
     "original_repository_id": 60163357,
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
