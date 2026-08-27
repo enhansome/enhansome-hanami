@@ -28,7 +28,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Assets
 
-* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,591 | 🐛 48 | 🌐 Ruby | 📅 2026-08-26 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
+* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,591 | 🐛 47 | 🌐 Ruby | 📅 2026-08-27 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) ⚠️ Archived - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) ⭐ 14 | 🐛 5 | 🌐 Ruby | 📅 2022-09-19 - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 31 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,144 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,152 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))
