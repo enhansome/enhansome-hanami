@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 330857119,
                 "language": "Ruby",
-                "last_commit": "2026-07-03T16:44:17Z",
+                "last_commit": "2026-08-26T17:07:55Z",
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
                 "stars": 1591
@@ -351,7 +351,7 @@
                 "last_commit": "2026-08-24T10:00:20Z",
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4988
+                "stars": 4989
               }
             },
             {
@@ -652,7 +652,7 @@
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3840
+            "stars": 3842
           }
         },
         {
@@ -935,9 +935,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:10:02.210Z",
-    "original_repository": "davydovanton/awesome-hanami",
-    "original_repository_id": 60163357,
+    "last_updated": "2026-08-27T11:45:42.438Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 60163357,
+      "language": "Ruby",
+      "last_commit": "2023-12-18T05:46:27Z",
+      "owner": "davydovanton",
+      "repo": "awesome-hanami",
+      "stars": 415
+    },
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
     "enhanced_repository": "enhansome/enhansome-hanami",
     "enhanced_repository_description": null,
