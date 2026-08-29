@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience",
+                "homepage": "https://vite-ruby.netlify.app",
                 "id": 330857119,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:46:37Z",
+                "open_issues": 47,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "frontend-tooling",
+                  "hanami",
+                  "integration",
+                  "plugin",
+                  "rack",
+                  "rails",
+                  "ruby",
+                  "vite",
+                  "vitejs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -28,12 +43,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.",
+                "homepage": null,
                 "id": 67317235,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-11-28T22:54:17Z",
+                "open_issues": 5,
                 "owner": "samuelsimoes",
                 "repo": "hanami-webpack",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "hanami",
+                  "rubygems",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -44,12 +68,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap wrapper for hanami framework.",
+                "homepage": null,
                 "id": 49285465,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-09-19T10:52:25Z",
+                "open_issues": 5,
                 "owner": "davydovanton",
                 "repo": "hanami-bootstrap",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "bootstrap",
+                  "hanami",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -67,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication with Argon2 for Hanami",
+                "homepage": null,
                 "id": 56854451,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-03-06T13:34:42Z",
+                "open_issues": 0,
                 "owner": "sebastjan-hribar",
                 "repo": "tachiban",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -83,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hanamirb User Authentication.  ",
+                "homepage": null,
                 "id": 51511965,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-08-21T01:35:31Z",
+                "open_issues": 2,
                 "owner": "theCrab",
                 "repo": "hanami-fumikiri",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -99,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplest authentication solution for Hanami",
+                "homepage": null,
                 "id": 90059338,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-06-20T22:20:51Z",
+                "open_issues": 0,
                 "owner": "katafrakt",
                 "repo": "omniauth-hanami",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -115,12 +163,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hanami Authentication library",
+                "homepage": null,
                 "id": 186051310,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-03-30T23:13:56Z",
+                "open_issues": 26,
                 "owner": "leemour",
                 "repo": "hanami_id",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "authentication",
+                  "hanami",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -131,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is no longer maintain: Roudauth wrapper for hanami apps",
+                "homepage": null,
                 "id": 56845236,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-08-28T10:15:21Z",
+                "open_issues": 0,
                 "owner": "davydovanton",
                 "repo": "hanami-rodauth",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -154,12 +216,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, functional authorization library and role management for ruby",
+                "homepage": "http://www.kanrb.org",
                 "id": 115924646,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-03-12T16:30:17Z",
+                "open_issues": 13,
                 "owner": "davydovanton",
                 "repo": "kan",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "authorization",
+                  "kan",
+                  "roles",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -170,12 +242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication with Argon2 for Hanami",
+                "homepage": null,
                 "id": 56854451,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-03-06T13:34:42Z",
+                "open_issues": 0,
                 "owner": "sebastjan-hribar",
                 "repo": "tachiban",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -186,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JWT authorization middleware for any web application.",
+                "homepage": null,
                 "id": 437442778,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-01-16T22:24:06Z",
+                "open_issues": 1,
                 "owner": "hanamimastery",
                 "repo": "jay_doubleu_tee",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -209,12 +291,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upload solution for Hanami 1 using Shrine library (does not work with Hanami 2)",
+                "homepage": null,
                 "id": 45364571,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-04-13T08:00:45Z",
+                "open_issues": 2,
                 "owner": "katafrakt",
                 "repo": "hanami-shrine",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "attachment",
+                  "hanami",
+                  "shrine",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -232,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gem for connecting NewRelic and Hanami",
+                "homepage": null,
                 "id": 34320681,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-06-17T11:04:12Z",
+                "open_issues": 1,
                 "owner": "artemeff",
                 "repo": "newrelic-hanami",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -255,12 +352,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSpec Matchers for Hanami",
+                "homepage": null,
                 "id": 59657468,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-10-10T20:23:18Z",
+                "open_issues": 7,
                 "owner": "davydovanton",
                 "repo": "rspec-hanami",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "hanami",
+                  "matchers",
+                  "rspec"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -271,12 +377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fabrication support for Hanami",
+                "homepage": null,
                 "id": 76009601,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-08-11T07:05:49Z",
+                "open_issues": 1,
                 "owner": "jodosha",
                 "repo": "hanami-fabrication",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -287,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)",
+                "homepage": null,
                 "id": 51202910,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-07-29T00:10:22Z",
+                "open_issues": 4,
                 "owner": "mcorp",
                 "repo": "shoulda-hanami",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -310,12 +426,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display your DB (sql) association graph",
+                "homepage": null,
                 "id": 83967713,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-05-06T19:26:48Z",
+                "open_issues": 1,
                 "owner": "davydovanton",
                 "repo": "rom_sql_graph",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "associations",
+                  "graph",
+                  "hanami",
+                  "rom",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -326,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RethinkDB adapter for Hanami::Model",
+                "homepage": null,
                 "id": 28784362,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-05-13T21:51:19Z",
+                "open_issues": 1,
                 "owner": "angeloashmore",
                 "repo": "hanami-rethinkdb",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -342,12 +474,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122582952,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-16T05:43:35Z",
+                "open_issues": 2,
                 "owner": "malin-as",
                 "repo": "hanami-sequel",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "database-migrations",
+                  "hanami",
+                  "sequel"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -365,12 +506,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agnostic pagination in plain ruby",
+                "homepage": "https://ddnexus.github.io/pagy/",
                 "id": 115859973,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:00:20Z",
+                "open_issues": 1,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4992
+                "stars": 4992,
+                "topics": [
+                  "bootstrap",
+                  "bulma",
+                  "elasticsearch-rails",
+                  "hanami",
+                  "jsonapi",
+                  "meilisearch",
+                  "padrino",
+                  "rails",
+                  "ruby",
+                  "searchkick",
+                  "sinatra",
+                  "typesense-rails"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -381,12 +540,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 92930562,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-06-08T16:36:26Z",
+                "open_issues": 4,
                 "owner": "davydovanton",
                 "repo": "hanami-pagination",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "hanami",
+                  "pagination",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -404,12 +572,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make hanami scaffolds faster",
+                "homepage": null,
                 "id": 61923184,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-08-21T13:29:45Z",
+                "open_issues": 3,
                 "owner": "davydovanton",
                 "repo": "hanami-scaffold",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "hanami",
+                  "hanami-scaffold",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -420,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zsh plugin for hanami.",
+                "homepage": null,
                 "id": 100543343,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-08-18T21:35:32Z",
+                "open_issues": 1,
                 "owner": "davydovanton",
                 "repo": "hanami-zsh",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -443,12 +625,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serializer library for hanami applications",
+                "homepage": null,
                 "id": 88630115,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-06-11T19:49:50Z",
+                "open_issues": 6,
                 "owner": "davydovanton",
                 "repo": "hanami-serializer",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "hanami",
+                  "json-api",
+                  "serializer"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -459,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support for rendering Jbuilder templates in Tilt in Hanami",
+                "homepage": null,
                 "id": 55234922,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-04-18T16:01:23Z",
+                "open_issues": 0,
                 "owner": "vladfaust",
                 "repo": "hanami-jbuilder",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -482,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃 Gem for generating documentation by specs for hanami",
+                "homepage": "https://nsheremet.pw/had",
                 "id": 97016752,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-04-16T10:01:17Z",
+                "open_issues": 1,
                 "owner": "gdwrd",
                 "repo": "had",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -505,12 +706,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌸 Mina plugin for Hanami",
+                "homepage": "https://www.mgrachev.com/projects",
                 "id": 76959284,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-10-17T06:44:40Z",
+                "open_issues": 0,
                 "owner": "mgrachev",
                 "repo": "mina-hanami",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "deployment",
+                  "hanami",
+                  "mina",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -521,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerfile and docker-compose.yml for Hanami projects",
+                "homepage": null,
                 "id": 144462679,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2018-08-12T12:14:16Z",
+                "open_issues": 0,
                 "owner": "gruz0",
                 "repo": "hanami-docker",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -537,12 +753,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌸 Hanami tasks for Capistrano",
+                "homepage": "https://www.mgrachev.com/projects",
                 "id": 77739015,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-01-07T16:55:42Z",
+                "open_issues": 0,
                 "owner": "mgrachev",
                 "repo": "capistrano-hanami",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "capistrano",
+                  "deployment",
+                  "hanami",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -553,12 +779,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "support for multiple apps and multiple stages for Mina using Hanami ruby framework",
+                "homepage": "https://rubygems.org/gems/mina-proteus",
                 "id": 187007967,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-06-13T14:40:22Z",
+                "open_issues": 0,
                 "owner": "apontini",
                 "repo": "mina-proteus",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "deploy",
+                  "hanami",
+                  "mina",
+                  "multiapp",
+                  "multienvironment",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -576,12 +814,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hanami framework vim support",
+                "homepage": null,
                 "id": 89106337,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2019-01-22T16:29:16Z",
+                "open_issues": 0,
                 "owner": "sovetnik",
                 "repo": "vim-hanami",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "hanami",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -592,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.",
+                "homepage": "https://avdgaag.github.io/projectile-hanami",
                 "id": 56533894,
                 "language": "Emacs Lisp",
+                "license": null,
                 "last_commit": "2016-05-06T08:16:50Z",
+                "open_issues": 0,
                 "owner": "avdgaag",
                 "repo": "projectile-hanami",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -608,12 +859,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The \"Vim Minispec\" plugin runs Minitest spec and displays the results in Vim quickfix window.",
+                "homepage": null,
                 "id": 88556798,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2020-08-14T01:14:37Z",
+                "open_issues": 0,
                 "owner": "sovetnik",
                 "repo": "vim-minispec",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "minitest",
+                  "vim",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -635,12 +895,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for setting up Ruby objects as test data.",
+            "homepage": "https://thoughtbot.com",
             "id": 21829,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:39:33Z",
+            "open_issues": 78,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169
+            "stars": 8169,
+            "topics": [
+              "factories",
+              "factory-bot",
+              "factory-girl",
+              "fixtures",
+              "rails",
+              "ruby",
+              "rubygems",
+              "testing",
+              "thoughtbot"
+            ]
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         },
@@ -651,12 +926,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OmniAuth is a flexible authentication system utilizing Rack middleware.",
+            "homepage": null,
             "id": 587311,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-02-27T14:56:33Z",
+            "open_issues": 105,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8100
+            "stars": 8100,
+            "topics": [
+              "authentication",
+              "hacktoberfest",
+              "omniauth",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         },
@@ -667,12 +952,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Official Ruby Object Mapper for MongoDB",
+            "homepage": "https://www.mongodb.com/docs/mongoid",
             "id": 309009,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:19:38Z",
+            "open_issues": 277,
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3912
+            "stars": 3912,
+            "topics": [
+              "mongodb",
+              "mongodb-driver",
+              "orm",
+              "orm-framework",
+              "ruby",
+              "ruby-on-rails"
+            ]
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         },
@@ -683,12 +980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preview mail in the browser instead of sending.",
+            "homepage": null,
             "id": 2344621,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-25T13:24:46Z",
+            "open_issues": 7,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3842
+            "stars": 3842,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         },
@@ -699,12 +1001,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The advanced business logic framework for Ruby.",
+            "homepage": "http://trailblazer.to",
             "id": 10955751,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-15T09:40:43Z",
+            "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3477
+            "stars": 3477,
+            "topics": [
+              "architecture"
+            ]
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         },
@@ -715,12 +1024,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internationalization (i18n) library for Ruby",
+            "homepage": null,
             "id": 24954,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-19T21:55:14Z",
+            "open_issues": 63,
             "owner": "ruby-i18n",
             "repo": "i18n",
-            "stars": 1031
+            "stars": 1031,
+            "topics": [
+              "i18n",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
         }
@@ -739,12 +1056,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public board for oss issues and mentoring",
+                "homepage": "http://www.ossboard.org",
                 "id": 74514701,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-03-16T20:16:02Z",
+                "open_issues": 24,
                 "owner": "ossboard-org",
                 "repo": "ossboard",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "hanami",
+                  "hanami-application",
+                  "oss",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -755,12 +1082,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All world's influence in a map. Ruby and Hanami open source project.",
+                "homepage": "http://pinfluence.org",
                 "id": 60651645,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-08-25T12:35:11Z",
+                "open_issues": 3,
                 "owner": "rafaels88",
                 "repo": "pinfluence",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "clean-architecture",
+                  "clean-code",
+                  "graphql",
+                  "hanami",
+                  "non-profit",
+                  "nonprofit",
+                  "opensource",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -771,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "All hanami contributors in one place",
+                "homepage": "http://contributors.hanamirb.org",
                 "id": 84884063,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-06-07T00:25:27Z",
+                "open_issues": 24,
                 "owner": "hanami",
                 "repo": "contributors",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -787,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Follow and controll issues from several repositories from one place",
+                "homepage": null,
                 "id": 115356395,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2018-09-21T08:07:53Z",
+                "open_issues": 17,
                 "owner": "davydovanton",
                 "repo": "cookie_box",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -803,12 +1154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145008702,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2019-02-07T15:15:57Z",
+                "open_issues": 6,
                 "owner": "makedecision-org",
                 "repo": "core",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -819,12 +1175,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free application for managing sets of flashcards. Built using Hanami framework.",
+                "homepage": "http://flashcard-genius.com/",
                 "id": 283864081,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-04-12T05:24:20Z",
+                "open_issues": 19,
                 "owner": "Bajena",
                 "repo": "flashcard-genius",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "free",
+                  "hanami",
+                  "learning",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -842,12 +1208,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JSON API web application built with Hanami",
+                "homepage": null,
                 "id": 84372369,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-10-17T16:07:27Z",
+                "open_issues": 4,
                 "owner": "nickgnd",
                 "repo": "hanami-jwt-example",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "cors-request",
+                  "hanami",
+                  "hanami-application",
+                  "json-api",
+                  "jwt-authentication",
+                  "ruby",
+                  "warden"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -858,12 +1237,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real world application built with hanami 🌸",
+                "homepage": "https://realworld.io/",
                 "id": 304734551,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-12-19T20:48:40Z",
+                "open_issues": 0,
                 "owner": "blrB",
                 "repo": "hanami-realworld-example-app",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "api",
+                  "hanami",
+                  "hanami-api",
+                  "hanami-application",
+                  "json-api",
+                  "jwt",
+                  "jwt-authentication",
+                  "realworld",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -874,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hanami example app with multiple delivery mechanisms",
+                "homepage": null,
                 "id": 63291148,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-04-11T05:46:22Z",
+                "open_issues": 1,
                 "owner": "bruz",
                 "repo": "bookshelf-delivery-example",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -890,12 +1289,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 101893487,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2019-01-29T14:25:29Z",
+                "open_issues": 0,
                 "owner": "AlexanderMint",
                 "repo": "upment-hanami",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "graphql",
+                  "graphql-server",
+                  "hanami",
+                  "hanami-application",
+                  "rspec",
+                  "trailblazer-operation"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -906,12 +1317,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic chat application built with Hanami and LiteCable (compatible with AnyCable)",
+                "homepage": null,
                 "id": 90798350,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-01-18T20:31:58Z",
+                "open_issues": 4,
                 "owner": "nickgnd",
                 "repo": "hanami-chat-example",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "actioncable",
+                  "anycable",
+                  "hanami",
+                  "hanami-application",
+                  "ruby",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -922,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "API on Hanami",
+                "homepage": null,
                 "id": 142897310,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-10-19T16:46:02Z",
+                "open_issues": 12,
                 "owner": "burn-my-fat",
                 "repo": "web",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -938,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 69870163,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2016-10-16T18:23:59Z",
+                "open_issues": 0,
                 "owner": "MorozovaLiuda",
                 "repo": "distruct-me",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -954,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deutsche lernen",
+                "homepage": "http://salat.netapps.website",
                 "id": 94141676,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-12-06T22:01:00Z",
+                "open_issues": 23,
                 "owner": "mjacobus",
                 "repo": "deutsch",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             },
@@ -970,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "mock site",
+                "homepage": "http://emaa.gr",
                 "id": 58760243,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-06-03T10:53:27Z",
+                "open_issues": 0,
                 "owner": "vasspilka",
                 "repo": "repressed_museum",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
             }
@@ -989,15 +1432,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:07.050Z",
+    "last_updated": "2026-08-29T04:45:32.192Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome Hanami Gems and projects",
+      "homepage": "http://awesome-hanami.org",
       "id": 60163357,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2023-12-18T05:46:27Z",
+      "open_issues": 2,
       "owner": "davydovanton",
       "repo": "awesome-hanami",
-      "stars": 415
+      "stars": 415,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hanami"
+      ]
     },
     "original_repository_sha": "82df684a8c9ad862e0b84739f8303312cecbb5ed",
     "enhanced_repository": "enhansome/enhansome-hanami",
