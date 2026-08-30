@@ -480,7 +480,7 @@
                 "language": "Ruby",
                 "license": "GPL-3.0",
                 "last_commit": "2023-03-16T05:43:35Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "malin-as",
                 "repo": "hanami-sequel",
                 "stars": 4,
@@ -901,7 +901,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-08-21T15:39:33Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "thoughtbot",
             "repo": "factory_bot",
             "stars": 8169,
@@ -935,7 +935,7 @@
             "open_issues": 105,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8100,
+            "stars": 8101,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -986,7 +986,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-04-25T13:24:46Z",
-            "open_issues": 7,
+            "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
             "stars": 3842,
@@ -1030,7 +1030,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-06-19T21:55:14Z",
-            "open_issues": 63,
+            "open_issues": 67,
             "owner": "ruby-i18n",
             "repo": "i18n",
             "stars": 1031,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:40:19.336Z",
+    "last_updated": "2026-08-30T14:30:26.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
