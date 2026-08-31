@@ -95,7 +95,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) ⚠️ Archived - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,355 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami.
 * [hanami-docker](https://github.com/gruz0/hanami-docker) ⭐ 13 | 🐛 0 | 🌐 Makefile | 📅 2018-08-12 - Dockerize your Hanami application
-* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 12,987 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
+* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 12,988 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
 * [mina-proteus](https://github.com/apontini/mina-proteus) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2019-06-13 - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,355 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami than allows you to deploy a specific application in a specific environment.
 
 ### Editors and IDE
@@ -111,7 +111,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [omniauth](https://github.com/intridea/omniauth) ⭐ 8,101 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,912 | 🐛 277 | 🌐 Ruby | 📅 2026-08-21 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
 * [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,842 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
-* [Trailblazer](https://github.com/apotonick/trailblazer) ⭐ 3,477 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2016-07-13
+* [Trailblazer](https://github.com/apotonick/trailblazer) ⭐ 3,476 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2016-07-13
 * [I18n](https://github.com/svenfuchs/i18n) ⭐ 1,031 | 🐛 67 | 🌐 Ruby | 📅 2026-06-19 - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext)
 * [Sidekiq](http://sidekiq.org) - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext), [Use Sidekiq With Hanami](http://www.strauss.io/blog/2016-use-sidekiq-with-hanami.html)
 * [Sequel plugins](http://sequel.jeremyevans.net/plugins.html) - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext)
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

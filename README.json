@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3477,
+            "stars": 3476,
             "topics": [
               "architecture"
             ]
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:30:26.206Z",
+    "last_updated": "2026-08-31T17:12:46.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
