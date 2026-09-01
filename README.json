@@ -515,7 +515,7 @@
                 "open_issues": 1,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4992,
+                "stars": 4990,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3842,
+            "stars": 3841,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "architecture"
             ]
@@ -1029,8 +1029,8 @@
             "id": 24954,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-06-19T21:55:14Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-01T01:35:25Z",
+            "open_issues": 66,
             "owner": "ruby-i18n",
             "repo": "i18n",
             "stars": 1031,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:12:46.784Z",
+    "last_updated": "2026-09-01T14:16:27.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
