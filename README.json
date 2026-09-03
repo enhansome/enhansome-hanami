@@ -511,11 +511,11 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-24T10:00:20Z",
+                "last_commit": "2026-09-03T09:10:21Z",
                 "open_issues": 1,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4990,
+                "stars": 4991,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -958,7 +958,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-08-21T15:19:38Z",
-            "open_issues": 277,
+            "open_issues": 278,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3912,
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3840,
+            "stars": 3841,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3476,
+            "stars": 3475,
             "topics": [
               "architecture"
             ]
@@ -1030,7 +1030,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-01T01:35:25Z",
-            "open_issues": 66,
+            "open_issues": 68,
             "owner": "ruby-i18n",
             "repo": "i18n",
             "stars": 1031,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:50:16.020Z",
+    "last_updated": "2026-09-03T13:50:13.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
