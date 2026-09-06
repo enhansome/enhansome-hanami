@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3841,
+            "stars": 3840,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:00:19.220Z",
+    "last_updated": "2026-09-06T13:05:00.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
