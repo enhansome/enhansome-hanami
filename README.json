@@ -901,7 +901,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-08-21T15:39:33Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "thoughtbot",
             "repo": "factory_bot",
             "stars": 8170,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:49:04.126Z",
+    "last_updated": "2026-09-09T13:52:31.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
