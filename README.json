@@ -961,7 +961,7 @@
             "open_issues": 279,
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3913,
+            "stars": 3914,
             "topics": [
               "mongodb",
               "mongodb-driver",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:52:31.198Z",
+    "last_updated": "2026-09-10T13:46:35.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
