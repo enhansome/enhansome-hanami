@@ -958,7 +958,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-08-21T15:19:38Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3914,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:47:11.674Z",
+    "last_updated": "2026-09-12T13:04:53.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
