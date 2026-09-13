@@ -935,7 +935,7 @@
             "open_issues": 105,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8101,
+            "stars": 8100,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -1033,7 +1033,7 @@
             "open_issues": 68,
             "owner": "ruby-i18n",
             "repo": "i18n",
-            "stars": 1031,
+            "stars": 1032,
             "topics": [
               "i18n",
               "ruby"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:04:53.533Z",
+    "last_updated": "2026-09-13T13:53:38.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
