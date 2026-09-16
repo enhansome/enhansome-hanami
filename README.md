@@ -28,14 +28,14 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Assets
 
-* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,590 | 🐛 47 | 🌐 Ruby | 📅 2026-08-28 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
+* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,592 | 🐛 49 | 🌐 Ruby | 📅 2026-08-28 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) ⚠️ Archived - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) ⭐ 14 | 🐛 5 | 🌐 Ruby | 📅 2022-09-19 - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 
 ### Authentication and OAuth
 
-* [tachiban](https://github.com/sebastjan-hribar/tachiban) ⭐ 35 | 🐛 0 | 🌐 Ruby | 📅 2026-03-06 - Authentication with bcrypt for Hanami apps
+* [tachiban](https://github.com/sebastjan-hribar/tachiban) ⭐ 35 | 🐛 0 | 🌐 Ruby | 📅 2026-09-16 - Authentication with bcrypt for Hanami apps
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) ⭐ 26 | 🐛 2 | 🌐 Ruby | 📅 2016-08-21 - JWT authentication wrapper for hanami apps
 * [omniauth-hanami](https://github.com/katafrakt/omniauth-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2018-06-20 – Allows to use Hanami repository as OAuth provider (similar to [omniauth-identity](https://github.com/intridea/omniauth-identity) ⭐ 363 | 🐛 7 | 🌐 Ruby | 📅 2026-08-11)
 * [hanami-id](https://github.com/leemour/hanami_id) ⭐ 14 | 🐛 26 | 🌐 Ruby | 📅 2022-03-30 - Large authentication library, with generators
@@ -44,7 +44,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Authorization
 
 * [kan](https://github.com/davydovanton/kan) ⭐ 235 | 🐛 13 | 🌐 Ruby | 📅 2020-03-12 - Simple, light and functional authorization library
-* [tachiban](https://github.com/sebastjan-hribar/tachiban) ⭐ 35 | 🐛 0 | 🌐 Ruby | 📅 2026-03-06 - Tachiban includes policy based authorization support
+* [tachiban](https://github.com/sebastjan-hribar/tachiban) ⭐ 35 | 🐛 0 | 🌐 Ruby | 📅 2026-09-16 - Tachiban includes policy based authorization support
 * [jay\_doubleu\_tee](https://github.com/hanamimastery/jay_doubleu_tee) ⭐ 17 | 🐛 1 | 🌐 Ruby | 📅 2023-01-16 - JWT authorization wrapper for all Ruby apps, including Hanami projects.
 
 ### File Uploading
@@ -69,7 +69,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Pagination
 
-* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,992 | 🐛 0 | 🌐 Ruby | 📅 2026-09-04 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
+* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,992 | 🐛 0 | 🌐 Ruby | 📅 2026-09-16 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) ⭐ 14 | 🐛 4 | 🌐 Ruby | 📅 2018-06-08 - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### Events
@@ -95,7 +95,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) ⚠️ Archived - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,353 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami.
 * [hanami-docker](https://github.com/gruz0/hanami-docker) ⭐ 13 | 🐛 0 | 🌐 Makefile | 📅 2018-08-12 - Dockerize your Hanami application
-* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 12,998 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
+* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 12,999 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
 * [mina-proteus](https://github.com/apontini/mina-proteus) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2019-06-13 - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,353 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami than allows you to deploy a specific application in a specific environment.
 
 ### Editors and IDE
@@ -107,7 +107,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Vanilla Libraries and Hanami
 
-* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,170 | 🐛 81 | 🌐 Ruby | 📅 2026-08-21 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
+* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,170 | 🐛 82 | 🌐 Ruby | 📅 2026-08-21 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 * [omniauth](https://github.com/intridea/omniauth) ⭐ 8,100 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,914 | 🐛 280 | 🌐 Ruby | 📅 2026-08-21 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
 * [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,840 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
