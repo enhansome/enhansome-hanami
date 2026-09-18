@@ -17,8 +17,8 @@
                 "id": 330857119,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-17T01:36:55Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-17T16:17:41Z",
+                "open_issues": 46,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
                 "stars": 1592,
@@ -935,7 +935,7 @@
             "open_issues": 105,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8100,
+            "stars": 8099,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -957,7 +957,7 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-21T15:19:38Z",
+            "last_commit": "2026-09-17T22:23:27Z",
             "open_issues": 280,
             "owner": "mongodb",
             "repo": "mongoid",
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3839,
+            "stars": 3838,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:25:30.926Z",
+    "last_updated": "2026-09-18T13:46:59.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",

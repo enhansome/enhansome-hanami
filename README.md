@@ -28,7 +28,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Assets
 
-* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,592 | 🐛 45 | 🌐 Ruby | 📅 2026-09-17 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
+* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,592 | 🐛 46 | 🌐 Ruby | 📅 2026-09-17 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) ⚠️ Archived - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) ⭐ 14 | 🐛 5 | 🌐 Ruby | 📅 2022-09-19 - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
@@ -108,9 +108,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 ## Vanilla Libraries and Hanami
 
 * [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,170 | 🐛 82 | 🌐 Ruby | 📅 2026-08-21 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
-* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,100 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
-* [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,914 | 🐛 280 | 🌐 Ruby | 📅 2026-08-21 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
-* [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,839 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
+* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,099 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
+* [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,914 | 🐛 280 | 🌐 Ruby | 📅 2026-09-17 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
+* [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,838 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
 * [Trailblazer](https://github.com/apotonick/trailblazer) ⭐ 3,473 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2016-07-13
 * [I18n](https://github.com/svenfuchs/i18n) ⭐ 1,033 | 🐛 68 | 🌐 Ruby | 📅 2026-09-01 - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext)
 * [Sidekiq](http://sidekiq.org) - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext), [Use Sidekiq With Hanami](http://www.strauss.io/blog/2016-use-sidekiq-with-hanami.html)
@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 31 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,215 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,221 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 302 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
