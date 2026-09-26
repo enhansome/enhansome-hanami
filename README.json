@@ -515,7 +515,7 @@
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4991,
+                "stars": 4992,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -904,7 +904,7 @@
             "open_issues": 83,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169,
+            "stars": 8170,
             "topics": [
               "factories",
               "factory-bot",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:43:08.796Z",
+    "last_updated": "2026-09-26T13:51:58.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
