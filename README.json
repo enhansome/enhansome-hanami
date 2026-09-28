@@ -17,8 +17,8 @@
                 "id": 330857119,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-21T16:08:14Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-28T16:56:32Z",
+                "open_issues": 35,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
                 "stars": 1591,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:48:45.854Z",
+    "last_updated": "2026-09-28T17:48:15.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
