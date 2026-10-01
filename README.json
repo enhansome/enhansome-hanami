@@ -511,11 +511,11 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-29T08:27:54Z",
+                "last_commit": "2026-10-01T03:10:33Z",
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4994,
+                "stars": 4993,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -904,7 +904,7 @@
             "open_issues": 83,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169,
+            "stars": 8163,
             "topics": [
               "factories",
               "factory-bot",
@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3473,
+            "stars": 3472,
             "topics": [
               "architecture"
             ]
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:03:25.158Z",
+    "last_updated": "2026-10-01T16:40:28.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
