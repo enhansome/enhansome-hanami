@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
-                "stars": 1590,
+                "stars": 1591,
                 "topics": [
                   "frontend-tooling",
                   "hanami",
@@ -948,7 +948,7 @@
         {
           "node_type": "item",
           "title": "mongoid",
-          "description": "github",
+          "description": "mongodb/mongoid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,8 +957,8 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-17T22:23:27Z",
-            "open_issues": 280,
+            "last_commit": "2026-10-02T17:55:58Z",
+            "open_issues": 279,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3912,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:16.768Z",
+    "last_updated": "2026-10-03T04:48:17.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
