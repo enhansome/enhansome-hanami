@@ -511,7 +511,7 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:04:00Z",
+                "last_commit": "2026-10-03T10:14:03Z",
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
@@ -701,32 +701,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mina-hanami",
-              "description": "Mina plugin for Hanami.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "🌸 Mina plugin for Hanami",
-                "homepage": "https://www.mgrachev.com/projects",
-                "id": 76959284,
-                "language": "Ruby",
-                "license": "MIT",
-                "last_commit": "2021-10-17T06:44:40Z",
-                "open_issues": 0,
-                "owner": "mgrachev",
-                "repo": "mina-hanami",
-                "stars": 13,
-                "topics": [
-                  "deployment",
-                  "hanami",
-                  "mina",
-                  "ruby"
-                ]
-              },
-              "first_seen": "2026-08-28T20:59:07.050Z"
-            },
-            {
-              "node_type": "item",
               "title": "hanami-docker",
               "description": "Dockerize your Hanami application",
               "children": [],
@@ -748,6 +722,32 @@
             },
             {
               "node_type": "item",
+              "title": "mina-hanami",
+              "description": "Mina plugin for Hanami.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "🌸 Mina plugin for Hanami",
+                "homepage": "https://www.mgrachev.com/projects",
+                "id": 76959284,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2021-10-17T06:44:40Z",
+                "open_issues": 0,
+                "owner": "mgrachev",
+                "repo": "mina-hanami",
+                "stars": 12,
+                "topics": [
+                  "deployment",
+                  "hanami",
+                  "mina",
+                  "ruby"
+                ]
+              },
+              "first_seen": "2026-08-28T20:59:07.050Z"
+            },
+            {
+              "node_type": "item",
               "title": "capistrano-hanami",
               "description": "Hanami tasks for Capistrano.",
               "children": [],
@@ -762,7 +762,7 @@
                 "open_issues": 0,
                 "owner": "mgrachev",
                 "repo": "capistrano-hanami",
-                "stars": 11,
+                "stars": 10,
                 "topics": [
                   "capistrano",
                   "deployment",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:17.175Z",
+    "last_updated": "2026-10-03T14:24:33.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
