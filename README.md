@@ -107,7 +107,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Vanilla Libraries and Hanami
 
-* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,163 | 🐛 83 | 🌐 Ruby | 📅 2026-10-06 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
+* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,163 | 🐛 85 | 🌐 Ruby | 📅 2026-10-06 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 * [omniauth](https://github.com/intridea/omniauth) ⭐ 8,103 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,911 | 🐛 279 | 🌐 Ruby | 📅 2026-10-02 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
 * [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,838 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
