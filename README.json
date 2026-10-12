@@ -512,7 +512,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-05T18:13:40Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "ddnexus",
                 "repo": "pagy",
                 "stars": 4994,
@@ -904,7 +904,7 @@
             "open_issues": 85,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8164,
+            "stars": 8165,
             "topics": [
               "factories",
               "factory-bot",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:56:16.562Z",
+    "last_updated": "2026-10-12T19:16:43.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
