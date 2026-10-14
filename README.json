@@ -18,7 +18,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:40:57Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
                 "stars": 1590,
@@ -511,11 +511,11 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-13T10:53:45Z",
+                "last_commit": "2026-10-14T06:22:29Z",
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4994,
+                "stars": 4995,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -904,7 +904,7 @@
             "open_issues": 61,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8165,
+            "stars": 8166,
             "topics": [
               "factories",
               "factory-bot",
@@ -935,7 +935,7 @@
             "open_issues": 105,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8105,
+            "stars": 8106,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -958,7 +958,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-02T17:55:58Z",
-            "open_issues": 288,
+            "open_issues": 290,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3911,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:06:27.572Z",
+    "last_updated": "2026-10-14T14:38:38.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
