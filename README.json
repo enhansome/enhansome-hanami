@@ -17,8 +17,8 @@
                 "id": 330857119,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:10:50Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-16T14:14:25Z",
+                "open_issues": 33,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
                 "stars": 1590,
@@ -511,8 +511,8 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-14T06:22:29Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-17T08:41:56Z",
+                "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
                 "stars": 4996,
@@ -957,8 +957,8 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:21:53Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-16T14:48:15Z",
+            "open_issues": 289,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3910,
@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3472,
+            "stars": 3473,
             "topics": [
               "architecture"
             ]
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:11:15.991Z",
+    "last_updated": "2026-10-17T13:08:37.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
