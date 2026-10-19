@@ -28,7 +28,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Assets
 
-* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,590 | 🐛 33 | 🌐 Ruby | 📅 2026-10-16 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
+* [vite\_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) ⭐ 1,589 | 🐛 33 | 🌐 Ruby | 📅 2026-10-16 - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) ⚠️ Archived - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) ⭐ 14 | 🐛 5 | 🌐 Ruby | 📅 2022-09-19 - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
@@ -69,7 +69,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Pagination
 
-* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,997 | 🐛 0 | 🌐 Ruby | 📅 2026-10-18 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
+* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,997 | 🐛 0 | 🌐 Ruby | 📅 2026-10-19 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) ⭐ 14 | 🐛 4 | 🌐 Ruby | 📅 2018-06-08 - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### Events
@@ -95,7 +95,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 * [hanami-docker](https://github.com/gruz0/hanami-docker) ⭐ 13 | 🐛 0 | 🌐 Makefile | 📅 2018-08-12 - Dockerize your Hanami application
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) ⚠️ Archived - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,350 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami.
-* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,014 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
+* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,016 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19.
 * [mina-proteus](https://github.com/apontini/mina-proteus) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2019-06-13 - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,350 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami than allows you to deploy a specific application in a specific environment.
 
 ### Editors and IDE
@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 31 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,300 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,306 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 304 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

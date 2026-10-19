@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
-                "stars": 1590,
+                "stars": 1589,
                 "topics": [
                   "frontend-tooling",
                   "hanami",
@@ -511,7 +511,7 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:15:14Z",
+                "last_commit": "2026-10-19T03:26:08Z",
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:31:04.215Z",
+    "last_updated": "2026-10-19T16:36:52.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
