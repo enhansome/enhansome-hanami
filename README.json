@@ -931,7 +931,7 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-21T11:46:23Z",
+            "last_commit": "2026-10-22T14:19:01Z",
             "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
@@ -957,8 +957,8 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-20T16:40:06Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-21T19:37:53Z",
+            "open_issues": 280,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3910,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:37:50.990Z",
+    "last_updated": "2026-10-22T14:37:53.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
