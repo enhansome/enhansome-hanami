@@ -931,7 +931,7 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:19:01Z",
+            "last_commit": "2026-10-22T19:11:42Z",
             "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
@@ -958,7 +958,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-21T19:37:53Z",
-            "open_issues": 280,
+            "open_issues": 281,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3910,
@@ -1030,10 +1030,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-01T01:35:25Z",
-            "open_issues": 72,
+            "open_issues": 75,
             "owner": "ruby-i18n",
             "repo": "i18n",
-            "stars": 1033,
+            "stars": 1034,
             "topics": [
               "i18n",
               "ruby"
@@ -1217,7 +1217,7 @@
                 "open_issues": 4,
                 "owner": "nickgnd",
                 "repo": "hanami-jwt-example",
-                "stars": 31,
+                "stars": 30,
                 "topics": [
                   "cors-request",
                   "hanami",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:37:53.592Z",
+    "last_updated": "2026-10-23T14:23:19.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
