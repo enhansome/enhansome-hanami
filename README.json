@@ -515,7 +515,7 @@
                 "open_issues": 0,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4996,
+                "stars": 4997,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -931,8 +931,8 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:29:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T15:02:54Z",
+            "open_issues": 2,
             "owner": "omniauth",
             "repo": "omniauth",
             "stars": 8106,
@@ -958,7 +958,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-27T15:12:38Z",
-            "open_issues": 282,
+            "open_issues": 283,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3909,
@@ -1030,7 +1030,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-24T19:58:23Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "ruby-i18n",
             "repo": "i18n",
             "stars": 1034,
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:31:03.482Z",
+    "last_updated": "2026-10-28T16:14:35.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
