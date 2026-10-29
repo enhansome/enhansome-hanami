@@ -931,11 +931,11 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-28T15:02:54Z",
+            "last_commit": "2026-10-29T15:03:02Z",
             "open_issues": 2,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8106,
+            "stars": 8104,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -958,10 +958,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-27T15:12:38Z",
-            "open_issues": 283,
+            "open_issues": 274,
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3909,
+            "stars": 3908,
             "topics": [
               "mongodb",
               "mongodb-driver",
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3839,
+            "stars": 3838,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1010,7 +1010,7 @@
             "open_issues": 38,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3473,
+            "stars": 3472,
             "topics": [
               "architecture"
             ]
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:14:35.394Z",
+    "last_updated": "2026-10-29T16:23:14.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
