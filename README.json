@@ -511,8 +511,8 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-31T08:27:24Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-02T18:12:51Z",
+                "open_issues": 1,
                 "owner": "ddnexus",
                 "repo": "pagy",
                 "stars": 4998,
@@ -931,11 +931,11 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:03:02Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T15:03:35Z",
+            "open_issues": 3,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8105,
+            "stars": 8104,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -957,7 +957,7 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:12:38Z",
+            "last_commit": "2026-11-02T18:14:44Z",
             "open_issues": 274,
             "owner": "mongodb",
             "repo": "mongoid",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:17:35.661Z",
+    "last_updated": "2026-11-02T19:44:06.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
