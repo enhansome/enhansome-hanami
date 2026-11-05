@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "ElMassimo",
                 "repo": "vite_ruby",
-                "stars": 1591,
+                "stars": 1592,
                 "topics": [
                   "frontend-tooling",
                   "hanami",
@@ -512,7 +512,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-11-04T07:02:49Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ddnexus",
                 "repo": "pagy",
                 "stars": 4998,
@@ -935,7 +935,7 @@
             "open_issues": 2,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8104,
+            "stars": 8103,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -957,8 +957,8 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-03T16:25:14Z",
-            "open_issues": 273,
+            "last_commit": "2026-11-05T17:27:27Z",
+            "open_issues": 272,
             "owner": "mongodb",
             "repo": "mongoid",
             "stars": 3908,
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3838,
+            "stars": 3837,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:28:16.394Z",
+    "last_updated": "2026-11-05T17:36:27.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
