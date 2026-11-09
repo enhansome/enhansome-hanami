@@ -69,7 +69,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Pagination
 
-* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,998 | 🐛 1 | 🌐 Ruby | 📅 2026-11-08 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
+* [pagy](https://github.com/ddnexus/pagy) ⭐ 4,998 | 🐛 2 | 🌐 Ruby | 📅 2026-11-09 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) ⭐ 14 | 🐛 4 | 🌐 Ruby | 📅 2018-06-08 - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### Events
@@ -94,9 +94,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Deploy
 
 * [hanami-docker](https://github.com/gruz0/hanami-docker) ⭐ 13 | 🐛 0 | 🌐 Makefile | 📅 2018-08-12 - Dockerize your Hanami application
-* [mina-hanami](https://github.com/mgrachev/mina-hanami) ⚠️ Archived - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,348 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami.
+* [mina-hanami](https://github.com/mgrachev/mina-hanami) ⚠️ Archived - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,347 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami.
 * [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) ⚠️ Archived - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,012 | 🐛 75 | 🌐 Ruby | 📅 2026-11-02.
-* [mina-proteus](https://github.com/apontini/mina-proteus) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2019-06-13 - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,348 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami than allows you to deploy a specific application in a specific environment.
+* [mina-proteus](https://github.com/apontini/mina-proteus) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2019-06-13 - [Mina](https://github.com/mina-deploy/mina) ⭐ 4,347 | 🐛 36 | 🌐 Ruby | 📅 2024-08-01 plugin for Hanami than allows you to deploy a specific application in a specific environment.
 
 ### Editors and IDE
 
@@ -108,7 +108,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ## Vanilla Libraries and Hanami
 
 * [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,166 | 🐛 63 | 🌐 Ruby | 📅 2026-11-03 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
-* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,102 | 🐛 3 | 🌐 Ruby | 📅 2026-11-06 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
+* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,103 | 🐛 4 | 🌐 Ruby | 📅 2026-11-06 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,904 | 🐛 272 | 🌐 Ruby | 📅 2026-11-05 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
 * [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,837 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
 * [Trailblazer](https://github.com/apotonick/trailblazer) ⭐ 3,472 | 🐛 38 | 🌐 Ruby | 📅 2025-07-15 - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2016-07-13
@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 30 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,367 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-02 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,372 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-02 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
