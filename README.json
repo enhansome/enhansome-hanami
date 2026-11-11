@@ -904,7 +904,7 @@
             "open_issues": 63,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8166,
+            "stars": 8167,
             "topics": [
               "factories",
               "factory-bot",
@@ -931,11 +931,11 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-10T13:20:02Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-11T16:55:56Z",
+            "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8103,
+            "stars": 8104,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -989,7 +989,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3837,
+            "stars": 3836,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:07.050Z"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:14:56.857Z",
+    "last_updated": "2026-11-11T17:24:44.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
