@@ -511,11 +511,11 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:29:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-19T17:49:10Z",
+                "open_issues": 2,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 4997,
+                "stars": 4999,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -935,7 +935,7 @@
             "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8105,
+            "stars": 8104,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:21:18.860Z",
+    "last_updated": "2026-11-19T18:36:35.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
