@@ -272,7 +272,7 @@
                 "open_issues": 1,
                 "owner": "hanamimastery",
                 "repo": "jay_doubleu_tee",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:07.050Z"
@@ -511,11 +511,11 @@
                 "id": 115859973,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-20T04:08:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-23T18:12:41Z",
+                "open_issues": 3,
                 "owner": "ddnexus",
                 "repo": "pagy",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "bootstrap",
                   "bulma",
@@ -904,7 +904,7 @@
             "open_issues": 63,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8164,
+            "stars": 8162,
             "topics": [
               "factories",
               "factory-bot",
@@ -931,11 +931,11 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:51:58Z",
+            "last_commit": "2026-11-23T18:26:56Z",
             "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
-            "stars": 8104,
+            "stars": 8103,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -957,11 +957,11 @@
             "id": 309009,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:56:27Z",
-            "open_issues": 273,
+            "last_commit": "2026-11-23T20:47:41Z",
+            "open_issues": 275,
             "owner": "mongodb",
             "repo": "mongoid",
-            "stars": 3904,
+            "stars": 3903,
             "topics": [
               "mongodb",
               "mongodb-driver",
@@ -1006,11 +1006,11 @@
             "id": 10955751,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T14:27:10Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-23T16:58:55Z",
+            "open_issues": 39,
             "owner": "trailblazer",
             "repo": "trailblazer",
-            "stars": 3474,
+            "stars": 3473,
             "topics": [
               "architecture"
             ]
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:20:46.706Z",
+    "last_updated": "2026-11-23T21:38:23.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
