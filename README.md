@@ -69,7 +69,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Pagination
 
-* [pagy](https://github.com/ddnexus/pagy) ⭐ 5,000 | 🐛 0 | 🌐 Ruby | 📅 2026-11-24 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
+* [pagy](https://github.com/ddnexus/pagy) ⭐ 5,000 | 🐛 1 | 🌐 Ruby | 📅 2026-11-24 - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) ⭐ 14 | 🐛 4 | 🌐 Ruby | 📅 2018-06-08 - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### Events
@@ -107,8 +107,8 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Vanilla Libraries and Hanami
 
-* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,161 | 🐛 63 | 🌐 Ruby | 📅 2026-11-03 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
-* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,102 | 🐛 1 | 🌐 Ruby | 📅 2026-11-25 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
+* [Factory Bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,161 | 🐛 63 | 🌐 Ruby | 📅 2026-11-26 - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
+* [omniauth](https://github.com/intridea/omniauth) ⭐ 8,102 | 🐛 1 | 🌐 Ruby | 📅 2026-11-26 - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [mongoid](https://github.com/mongodb/mongoid) ⭐ 3,903 | 🐛 277 | 🌐 Ruby | 📅 2026-11-25 - [github](https://github.com/michalvalasek/hanami-mongoid) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2016-05-23
 * [letter\_opener](https://github.com/ryanb/letter_opener) ⭐ 3,836 | 🐛 2 | 🌐 Ruby | 📅 2026-04-25 - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
 * [Trailblazer](https://github.com/apotonick/trailblazer) ⭐ 3,473 | 🐛 39 | 🌐 Ruby | 📅 2026-11-24 - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2016-07-13
@@ -137,7 +137,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Play/Pet projects
 
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) ⭐ 30 | 🐛 4 | 🌐 Ruby | 📅 2018-10-17 - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,409 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-20 spec and API.
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2022-12-19 - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,412 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-20 spec and API.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2017-04-11 - An example app with a web GUI, API and CLI using shared interactors.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) ⚠️ Archived - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client) ⚠️ Archived
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) ⭐ 9 | 🐛 4 | 🌐 Ruby | 📅 2023-01-18 - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-07-25 (compatible with [AnyCable](http://anycable.io/))
@@ -176,4 +176,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

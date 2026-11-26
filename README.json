@@ -512,7 +512,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-11-24T12:22:17Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ddnexus",
                 "repo": "pagy",
                 "stars": 5000,
@@ -900,7 +900,7 @@
             "id": 21829,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:00:41Z",
+            "last_commit": "2026-11-26T18:53:25Z",
             "open_issues": 63,
             "owner": "thoughtbot",
             "repo": "factory_bot",
@@ -931,7 +931,7 @@
             "id": 587311,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-25T16:23:14Z",
+            "last_commit": "2026-11-26T17:52:02Z",
             "open_issues": 1,
             "owner": "omniauth",
             "repo": "omniauth",
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:32:47.996Z",
+    "last_updated": "2026-11-26T19:15:18.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Hanami Gems and projects",
